@@ -1,6 +1,6 @@
 ## Jared Peters 👋🏼
 
-## Currently working across full stack JavaScript building apps and services for innovative businesses with great ideas
+## Currently working on building the next generation of apps for some of the UK's largest digital properties as part of the IM Platforms team at Immediate Media Co
 
 ## Skillset
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" alt="JS" /> JavaScript
